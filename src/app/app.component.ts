@@ -25,6 +25,7 @@ import { trigger, state, style, animate, transition } from '@angular/animations'
 export class AnimationExampleComponent implements OnInit {
 
   currentState: string;
+
   constructor() { }
 
   ngOnInit() {
@@ -34,6 +35,7 @@ export class AnimationExampleComponent implements OnInit {
   changeState() {
     this.currentState = "state2";
   }
+
   endState() {
       console.log('End state executed!');
       this.currentState = "state1";

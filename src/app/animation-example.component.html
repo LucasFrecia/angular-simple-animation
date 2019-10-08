@@ -1,2 +1,8 @@
-<div [@changeState]="currentState" (@changeState.done)="endState()" class="myblock mx-auto" ></div>
-<button (click)="changeState()">Change state</button>
+<div [@changeState]="currentState"
+     (@changeState.done)="endState()"
+     class="myblock mx-auto" >
+</div>
+
+<button (click)="changeState()">
+  Change state
+</button>
