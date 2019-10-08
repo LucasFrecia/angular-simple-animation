@@ -1,5 +1,5 @@
 # angular-simple-animation
 
-[Edit on StackBlitz ⚡️](./app/simple-animation.gif)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-simple-animation)
 
-![Simple animation](http://url/to/img.png)
+![Simple animation](./src/simple-animation.gif)
