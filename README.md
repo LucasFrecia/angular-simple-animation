@@ -2,4 +2,4 @@
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-simple-animation)
 
-![](simple-animation.gif)
+![View animation](simple-animation.gif)
